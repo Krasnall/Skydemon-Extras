@@ -14,7 +14,7 @@
 3. Run Skydemon on your PC and open Custom Data creator by selecting *Setup > Custom Data > Create Custom Data* from the top menu.
 4. Verify the data has been properly loaded to Skydemon (files visible in the left pane of the Custom Data creator)
 5. Save Custom Data to Cloud to share it with your mobile devices by selecting *Setup > Custom Data > Save to Cloud* from the top menu.
-6. Run Skydemon each of your mobile devices and load Custom Data from the Cloud by selecting *Setup (cog icon) > Cloud (top right) > Load Custom Data from Cloud*
+6. Run Skydemon on each of your mobile devices and load Custom Data from the Cloud by selecting *Setup (cog icon) > Cloud (top right) > Load Custom Data from Cloud*
 
 ### Mobile only
 If you don't want to use the PC, you can try downloading the files directly on your mobile device and copying them to Skydemon/CustomData folder - if you can find it on your mobile device.
