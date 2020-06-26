@@ -3,7 +3,7 @@
 
 ## Available data
 ### Poland
-- airports missing from the official Skydemon database
+- airports missing from the official Skydemon database (all airports are private, blue are [registered](https://www.ulc.gov.pl/pl/lotniska/rejestr-lotnisk-i-ewidencja-ladowisk), green are unregistered)
 ### Slovakia
 - airports missing from the official Skydemon database (only a few)
 
@@ -17,7 +17,7 @@
 6. Run Skydemon each of your mobile devices and load Custom Data from the Cloud by selecting *Setup (cog icon) > Cloud (top right) > Load Custom Data from Cloud*
 
 ### Mobile only
-If you don't want to use the PC, you can try downloading the files directly on your mobile device and copying them to Skydemon/CustomData folder - if you can fild it on your mobile device.
+If you don't want to use the PC, you can try downloading the files directly on your mobile device and copying them to Skydemon/CustomData folder - if you can find it on your mobile device.
 
 ## How to report issues
 Please open a new [issue on Github](https://github.com/Krasnall/Skydemon-Extras/issues) or [contact me on Messenger](https://m.me/krasnall)
