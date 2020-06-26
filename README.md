@@ -9,7 +9,7 @@
 
 ## How to use it
 ### PC
-1. Download custom data files to your PC.
+1. [Download custom data files](https://github.com/Krasnall/Skydemon-Extras/archive/master.zip) to your PC.
 2. Copy the files to Documents > Skydemon > CustomData (*C:\Users\Your_name\Documents\SkyDemon\CustomData*)
 3. Run Skydemon on your PC and open Custom Data creator by selecting *Setup > Custom Data > Create Custom Data* from the top menu.
 4. Verify the data has been properly loaded to Skydemon (files visible in the left pane of the Custom Data creator)
