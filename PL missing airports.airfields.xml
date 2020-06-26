@@ -1,0 +1,1340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AirfieldsList>
+  <Airfield UniqueIdentifier="" Name="Annowo (C)" Position="N524807.20 E0175250.00" IcaoIdentifier="" LocalIdentifier="" Elevation="350.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko Leśne w Nadleśnictwie Gołąbki. Aktualny pas (1100 x 50 m) w przebudowie do wymiarów 500 x 36 z utwardzoną nawierzchnią trawiastą." Caution="" LastUpdated="20200616104551" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="36.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="16" ThresholdPosition="N524814.70 E0175245.00" ThresholdElevation="350.00" TrueBearing="158.07" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="34" ThresholdPosition="N524759.70 E0175255.00" ThresholdElevation="350.00" TrueBearing="338.07" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Antonowo (C)" Position="N540329.40 E0214448.90" IcaoIdentifier="" LocalIdentifier="" Elevation="390.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Dominik Kaźmierczak +48 604 980 011" Availability="1" URL="https://www.facebook.com/MotolotnieMazury" Email="info@motolotniemazury.pl" OpeningHours="" LandingFee="" Remarks="Dobieg po lądowaniu na kierunku 04 lekko pod górkę" Caution="" LastUpdated="20200615194105" AuthorFlags="0">
+    <Runways>
+      <Runway Length="435.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N540324.00 E0214441.20" ThresholdElevation="390.00" TrueBearing="39.94" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N540334.80 E0214456.60" ThresholdElevation="390.00" TrueBearing="219.95" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bobrowniki (C)" Position="N520357.00 E0200153.60" IcaoIdentifier="" LocalIdentifier="" Elevation="280.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Arek +48 692 482 241" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany (progi oznaczone liczbami). Na podejściu 07 linia SN. Przed progiem 25 rów z wodą. Przez rów i bramę droga kołowania pod obszerny hangar. Drugi hangar w budowie (X.2017) po południowej stronie pasa startowego. Możliwość hangarowania. Na lądowisku szkoła pilotażu i stacja serwisowa samolotów." Caution="" LastUpdated="20200615194114" AuthorFlags="0">
+    <Runways>
+      <Runway Length="870.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N520352.00 E0200132.30" ThresholdElevation="280.00" TrueBearing="69.10" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N520402.00 E0200214.90" ThresholdElevation="280.00" TrueBearing="249.11" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Boronów (C)" Position="N504050.10 E0185455.70" IcaoIdentifier="" LocalIdentifier="" Elevation="939.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Bartek +48 696 885 169" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany próg 34 i krawędzie drogi startowej. Przed progiem 16 rów z wodą. Wskaźnik wiatru przy progu 34." Caution="" LastUpdated="20200615193030" AuthorFlags="0">
+    <Runways>
+      <Runway Length="280.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="16" ThresholdPosition="N504054.30 E0185453.10" ThresholdElevation="939.00" TrueBearing="158.57" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="34" ThresholdPosition="N504045.90 E0185458.30" ThresholdElevation="939.00" TrueBearing="338.58" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bożykowo (C)" Position="N540429.40 E0215005.30" IcaoIdentifier="" LocalIdentifier="" Elevation="491.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Motolotnia: +48 604 980 011, Czesław Wiszniowiecki (Socata): +48 504 758 704" Availability="1" URL="http://samolot.mazury.info.pl/, http://motolotnie.mazury.info.pl/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty 294 x 35 m, nieoznakowany. Loty motolotnią i samolotem. Na przełużeniu kierunku 20 węższa część drogi startowej o wymiarach ok. 182 x 15 m" Caution="" LastUpdated="20200615194202" AuthorFlags="0">
+    <Runways>
+      <Runway Length="476.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N540420.60 E0214959.40" ThresholdElevation="491.00" TrueBearing="22.39" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N540433.70 E0215008.60" ThresholdElevation="491.00" TrueBearing="202.40" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bukowina Bobrzańska (C)" Position="N513622.80 E0152524.20" IcaoIdentifier="" LocalIdentifier="" Elevation="460.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Kazimierz +48 600 884 658" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty nieoznakowany. Lądowisko trudne: uwaga na linię elektryczną przebiegającą w poprzek pasa w połowie jej długości (lądowanie wyłącznie &quot;pod drutami&quot;)" Caution="" LastUpdated="20200615193142" AuthorFlags="0">
+    <Runways>
+      <Runway Length="370.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N513628.80 E0152523.90" ThresholdElevation="460.00" TrueBearing="178.22" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N513616.80 E0152524.50" ThresholdElevation="460.00" TrueBearing="358.22" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bychlew (C)" Position="N513816.20 E0192045.60" IcaoIdentifier="" LocalIdentifier="" Elevation="605.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Lądowisko Polskiego Stowarzyszenia Szybowcowego. Starty szybowców za wyciągarką." Caution="" LastUpdated="20200615193238" AuthorFlags="0">
+    <Runways>
+      <Runway Length="850.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N513815.50 E0192023.50" ThresholdElevation="605.00" TrueBearing="87.07" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N513816.90 E0192107.70" ThresholdElevation="605.00" TrueBearing="267.08" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Bychlew-Kwadrat " Frequency="122.9" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bystrzyca Kłodzka (C)" Position="N501831.70 E0163845.50" IcaoIdentifier="" LocalIdentifier="" Elevation="1247.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="Maciej Kruk +48 74 811 76 66" Availability="1" URL="Urząd Miasta Bystrzyca Kłodzka" Email="" OpeningHours="" LandingFee="" Remarks="Airfield name(s): Bystrzyca Kłodzka&#xA;Main runway: 068/248, 320 x 50 m, 1247 ft, N50°18'31.7” E16°38'45.5”&#xA;Remarks: Pas trawiasty, nieoznakowany, ogrodzony. Planowane powiększenie lądowiska i przekształcenie w lotnisko. Nr ewid.ULC 396&#xA;Status: Lądowisko zarejestrowane" Caution="" LastUpdated="20200615194825" AuthorFlags="0">
+    <Runways>
+      <Runway Length="320.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N501829.80 E0163838.00" ThresholdElevation="1247.00" TrueBearing="68.35" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N501833.60 E0163853.00" ThresholdElevation="1247.00" TrueBearing="248.35" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Bystrzyca Kłodzka" Frequency="122.800" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Chełmżyca (C)" Position="N534013.60 E0192738.70" IcaoIdentifier="" LocalIdentifier="" Elevation="323.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Ranczo Sanna: Joanna +48 603 210 890, Jarek +48 603 216 668, Natalia +48 500 524 800" Availability="1" URL="https://www.facebook.com/ranczosanna/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany - białe znaczniki co 50 m. Oznakowane progi drogi startowej. W odległości 110 m od progu 33 drogę startową przecina na ukos linia elektryczna o wys. ok.6 m: słup trakcyjny przy prawej krawędzi pasa 33, przewód obniża się w kierunku zachodnim. Drzewa przy drodze przed progiem 15. Podejście 33 bez przeszkód na podejściu: drzewa nad jeziorem wycięte na ścieżce podejścia. Droga startowa wznosi się nieznacznie na kierunku 33. Bezpośrednio koło pasa startowego Ranczo Sanna z możliwością noclegu, wyżywienia i innych atrakcji" Caution="" LastUpdated="20200615194226" AuthorFlags="0">
+    <Runways>
+      <Runway Length="457.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="15" ThresholdPosition="N534019.60 E0192731.60" ThresholdElevation="323.00" TrueBearing="144.97" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="33" ThresholdPosition="N534007.60 E0192745.80" ThresholdElevation="323.00" TrueBearing="324.98" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Chobot (C)" Position="N521501.40 E0212423.20" IcaoIdentifier="" LocalIdentifier="" Elevation="387.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Linia wysokiego napięcia na podejściu 15. Info z III.2016: lądowisko zniszczone przez dziki." Caution="" LastUpdated="20200615193833" AuthorFlags="0">
+    <Runways>
+      <Runway Length="310.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="15" ThresholdPosition="N521505.80 E0212419.20" ThresholdElevation="387.00" TrueBearing="150.87" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="33" ThresholdPosition="N521457.00 E0212427.20" ThresholdElevation="387.00" TrueBearing="330.87" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Chromna (C)" Position="N520632.90 E0222238.60" IcaoIdentifier="" LocalIdentifier="" Elevation="538.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Hardej +48 665 095 472" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Po wschodniej stronie progu 18 niewielki hangar z charakterystycznym zielono-żółtym dachem. Dogodne podejście do lądowania z obu kierunków" Caution="" LastUpdated="20200615193955" AuthorFlags="0">
+    <Runways>
+      <Runway Length="245.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N520636.90 E0222238.40" ThresholdElevation="538.00" TrueBearing="178.22" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N520628.90 E0222238.80" ThresholdElevation="538.00" TrueBearing="358.22" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Czarże-Rafa (C)" Position="N531247.40 E0181300.10" IcaoIdentifier="" LocalIdentifier="" Elevation="50.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Natalia +48 500 524 800" Availability="1" URL="http://www.odsmigla.com/" Email="" OpeningHours="" LandingFee="" Remarks="Miejsce pikników lotniczych organizowanych przez Natalię Płończak i Stowarzyszenie Promocji Lotnictwa &quot;Od Śmigła&quot;" Caution="" LastUpdated="20200615194604" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="06" ThresholdPosition="N531243.80 E0181249.60" ThresholdElevation="50.00" TrueBearing="60.17" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="24" ThresholdPosition="N531251.00 E0181310.60" ThresholdElevation="50.00" TrueBearing="240.17" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Czechy (C)" Position="N501244.60 E0200915.30" IcaoIdentifier="" LocalIdentifier="" Elevation="775.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko trawiaste, oznakowane progi. Hangar po południowej stronie progu 10" Caution="" LastUpdated="20200615194656" AuthorFlags="0">
+    <Runways>
+      <Runway Length="420.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N501246.00 E0200904.90" ThresholdElevation="775.00" TrueBearing="101.83" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N501243.20 E0200925.70" ThresholdElevation="775.00" TrueBearing="281.83" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Częstochowa-Kawodrza (C)" Position="N504657.00 E0190257.70" IcaoIdentifier="" LocalIdentifier="" Elevation="876.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Skype ”EdwardPy”" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Po deszczach teren jest podmokły i należy wcześniej się skontaktować z właścicielem. W okolicy północnej części pasa znajduje się budynek z napisem na dachu &quot;AIR PORT&quot; (widoczne na mapie w trybie &quot;Satelita&quot;). Podejście bez przeszkód na kierunku 02" Caution="" LastUpdated="20200615194912" AuthorFlags="0">
+    <Runways>
+      <Runway Length="222.00" Width="14.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N504653.50 E0190256.20" ThresholdElevation="876.00" TrueBearing="15.16" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="" ThresholdPosition="N504700.50 E0190259.20" ThresholdElevation="876.00" TrueBearing="195.16" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dąbcze (C)" Position="N514907.50 E0163936.00" IcaoIdentifier="" LocalIdentifier="" Elevation="322.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="+48 782 782 087, +48 608 481 034" Availability="1" URL="http://www.lotyleszno.pl" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko trawiaste, oznakowane. Nr ewid.ULC 313" Caution="" LastUpdated="20200615195031" AuthorFlags="0">
+    <Runways>
+      <Runway Length="610.00" Width="24.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N514908.70 E0163920.20" ThresholdElevation="322.00" TrueBearing="97.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N514906.30 E0163951.80" ThresholdElevation="322.00" TrueBearing="277.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dębno k.Wołowa (C)" Position="N512004.80 E0163105.10" IcaoIdentifier="" LocalIdentifier="" Elevation="310.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Gospodarstwo agroturystyczne +48 71 3891716, +48 604 261 332" Availability="1" URL="http://www.3stawy.eu/" Email="" OpeningHours="" LandingFee="" Remarks="Gospodarstwo agroturystyczne Kraina Trzech Stawów z lądowiskiem motolotniowym" Caution="" LastUpdated="20200615195219" AuthorFlags="0">
+    <Runways>
+      <Runway Length="230.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N512006.10 E0163059.60" ThresholdElevation="310.00" TrueBearing="110.62" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N512003.50 E0163110.70" ThresholdElevation="310.00" TrueBearing="290.63" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dmosin (C)" Position="N515617.10 E0194642.80" IcaoIdentifier="" LocalIdentifier="" Elevation="480.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Past trawiasty, nieoznakowany, ale wyraźnie wyróżniający się z otoczenia. 650 m przed progiem 15 linia wysokiego napięcia. Podejście 33 bez przeszkód." Caution="" LastUpdated="20200615195321" AuthorFlags="0">
+    <Runways>
+      <Runway Length="375.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="15" ThresholdPosition="N515622.20 E0194637.50" ThresholdElevation="480.00" TrueBearing="147.07" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="33" ThresholdPosition="N515612.00 E0194648.20" ThresholdElevation="480.00" TrueBearing="327.07" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dobiesławice (C)" Position="N501327.90 E0203426.50" IcaoIdentifier="" LocalIdentifier="" Elevation="592.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty oznakowany. Rękaw wiatrowy po zachodniej stronie drogi startowej" Caution="" LastUpdated="20200615195401" AuthorFlags="0">
+    <Runways>
+      <Runway Length="287.00" Width="18.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="17" ThresholdPosition="N501332.50 E0203425.50" ThresholdElevation="592.00" TrueBearing="172.05" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="35" ThresholdPosition="N501323.30 E0203427.50" ThresholdElevation="592.00" TrueBearing="352.05" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dylew (C)" Position="N514257.60 E0204617.80" IcaoIdentifier="" LocalIdentifier="" Elevation="452.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="https://www.facebook.com/ladowiskodylew" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko paralotniowe. Tu odbywała się impreza paralotniowa &quot;Dotknąć nieba&quot;. Pas równy i zadbany, bez problemu można lądować mikrolotami i ULM-ami. Na progu pasa 24 przy drodze jest krzyż - z uwagą na niego" Caution="" LastUpdated="20200615195502" AuthorFlags="0">
+    <Runways>
+      <Runway Length="256.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="06" ThresholdPosition="N514255.60 E0204612.00" ThresholdElevation="452.00" TrueBearing="60.83" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="24" ThresholdPosition="N514259.60 E0204623.60" ThresholdElevation="452.00" TrueBearing="240.84" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Działyń (C)" Position="N523613.80 E0172837.00" IcaoIdentifier="" LocalIdentifier="" Elevation="367.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="PPR 24h" Availability="1" URL="http://dzialpol.pl/ladowisko.html" Email="ladowisko@dzialpol.pl" OpeningHours="" LandingFee="" Remarks="Pas trawasty. Lądowisko prowadzone przez Instytut Badawczy im. Dezyderego Chłapowskiego i gospodarstwo rolne Działpol sp. z o.o. PPR 24h. Nr ewid.ULC 322" Caution="" LastUpdated="20200615195621" AuthorFlags="0">
+    <Runways>
+      <Runway Length="800.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N523616.90 E0172816.40" ThresholdElevation="367.00" TrueBearing="103.90" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N523610.70 E0172857.60" ThresholdElevation="367.00" TrueBearing="283.91" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Dzwono-Sierbowice (C)" Position="N503038.70 E0193853.60" IcaoIdentifier="" LocalIdentifier="" Elevation="1223.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Arek Gumułka +48 502 439 059" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany białymi chorągiewkami. Pas lekko opada do progu 18. Podejście 36 znad zabudowań, podejście 18 bez przeszkód." Caution="" LastUpdated="20200615195725" AuthorFlags="0">
+    <Runways>
+      <Runway Length="330.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N503044.00 E0193853.50" ThresholdElevation="1223.00" TrueBearing="179.32" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N503033.40 E0193853.70" ThresholdElevation="1223.00" TrueBearing="359.32" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Gniewskie Pole (C)" Position="N534726.90 E0185145.30" IcaoIdentifier="" LocalIdentifier="" Elevation="36.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Krzysiek Kowalkowski +48 602 425 134" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznaczony białymi chorągiewkami, skraje czerwonymi. Rękaw przy wiacie grillowej po wschodniej stronie pasa. W sezonie jest tam przyczepa kempingowa" Caution="" LastUpdated="20200615195808" AuthorFlags="0">
+    <Runways>
+      <Runway Length="250.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N534723.60 E0185141.50" ThresholdElevation="36.00" TrueBearing="34.26" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N534730.20 E0185149.10" ThresholdElevation="36.00" TrueBearing="214.26" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Górki (C)" Position="N502221.30 E0211722.90" IcaoIdentifier="" LocalIdentifier="" Elevation="515.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="+48 785 934 497" Availability="1" URL="https://www.facebook.com/SLGorki/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, wyraźnie oznakowany. Lądowisko Góreckiego Stowarzyszenia Lotniczego im. Jana Wnęka" Caution="" LastUpdated="20200615195914" AuthorFlags="0">
+    <Runways>
+      <Runway Length="690.00" Width="34.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="16" ThresholdPosition="N502228.50 E0211717.70" ThresholdElevation="515.00" TrueBearing="155.21" ThresholdDisplacement="100.0" Lighting="0" />
+        <FarEnd Identifier="34" ThresholdPosition="N502212.20 E0211729.50" ThresholdElevation="515.00" TrueBearing="335.21" ThresholdDisplacement="35.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kaczowice (C)" Position="N504127.40 E0170635.60" IcaoIdentifier="" LocalIdentifier="" Elevation="940.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Tadeusz Leszczyński +48 603 513 911, Marcin Grębowicz +48 781 681 581" Availability="1" URL="" Email="glmg@wp.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty nieoznakowany, regularnie koszony, z lekkimi nierównościami (będzie poprawiany). Podejście 30 bardzo trudne: na progu hangar i pojedyncze drzewa. W odległości 40 m od progu 30 pas przecina linia elektryczna o wysokości 8 m. Podejście 12 bez przeszkód. Stacja paliw oddalona o 4,5 km w miejscowości Przeworno" Caution="" LastUpdated="20200615200337" AuthorFlags="0">
+    <Runways>
+      <Runway Length="311.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="12" ThresholdPosition="N504129.70 E0170628.50" ThresholdElevation="940.00" TrueBearing="117.08" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="30" ThresholdPosition="N504125.10 E0170642.70" ThresholdElevation="940.00" TrueBearing="297.09" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Kaczowice" Frequency="123.450" Radius="" Qualifier="" />
+      <Frequency Designation="AFIS" Callsign="Kaczowice" Frequency="127.775" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kadłubia (C)" Position="N513928.40 E0150959.00" IcaoIdentifier="" LocalIdentifier="" Elevation="510.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Łukasz Szostek +48 667 258 678" Availability="1" URL="" Email="szost3@o2.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty. Dogodne podejście z obu stron." Caution="" LastUpdated="20200615200437" AuthorFlags="0">
+    <Runways>
+      <Runway Length="242.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N513929.70 E0150953.10" ThresholdElevation="510.00" TrueBearing="109.52" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N513927.10 E0151004.90" ThresholdElevation="510.00" TrueBearing="289.52" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kamionka-Nowe (C)" Position="N534035.50 E0183752.80" IcaoIdentifier="" LocalIdentifier="" Elevation="294.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Marcin Szczepański +48 501 033 774" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Na kierunku 29 podejście czyste, na kierunku 11 linia niskiego napięcia 20 metrów przed progiem. Lądowisko równe, koszone, pas gotowy. Hangar stoi, reszta infrastruktury jeszcze w budowie, ale lądowisko już działa. Pozostałe informacje na Forum." Caution="" LastUpdated="20200615200524" AuthorFlags="0">
+    <Runways>
+      <Runway Length="260.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N534036.70 E0183746.00" ThresholdElevation="294.00" TrueBearing="106.61" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N534034.30 E0183759.60" ThresholdElevation="294.00" TrueBearing="286.61" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Karczew (C)" Position="N520449.50 E0211338.80" IcaoIdentifier="" LocalIdentifier="" Elevation="290.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Darek +48 603 356 840" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Nawierzchnia równa, trawa wykoszona. Na podejściu 26 drzewa i niska linia elektryczna przed drogą. Na podejściu 08 wał przeciwpowodziowy." Caution="" LastUpdated="20200615200605" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="08" ThresholdPosition="N520448.00 E0211327.20" ThresholdElevation="290.00" TrueBearing="78.14" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N520451.00 E0211350.40" ThresholdElevation="290.00" TrueBearing="258.14" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kazimierza Mała (C)" Position="N501538.90 E0203226.50" IcaoIdentifier="" LocalIdentifier="" Elevation="615.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Adam +48 691 058 777, Zbigniew (właściciel) +48 602 105 624" Availability="1" URL="https://lotniskokazimierza.wordpress.com" Email="" OpeningHours="" LandingFee="" Remarks="Airfield name(s): Kazimierza Mała&#xA;Main runway: 134/314, 470 x 27 m, 615 ft, N50°15'38.9” E20°32'26.5”&#xA;Status: Lądowisko" Caution="" LastUpdated="20200615200852" AuthorFlags="0">
+    <Runways>
+      <Runway Length="470.00" Width="27.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="13" ThresholdPosition="N501544.20 E0203218.00" ThresholdElevation="615.00" TrueBearing="134.29" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="31" ThresholdPosition="N501533.60 E0203235.00" ThresholdElevation="615.00" TrueBearing="314.29" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kleszczewo (C)" Position="N541235.70 E0183129.00" IcaoIdentifier="" LocalIdentifier="" Elevation="420.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lekki spadek w kierunku 04 (4 m różnicy między progami). Hangar na lewo od pasa 04. Rękaw na prawo od pasa 04" Caution="" LastUpdated="20200615201037" AuthorFlags="0">
+    <Runways>
+      <Runway Length="240.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N541232.70 E0183124.70" ThresholdElevation="420.00" TrueBearing="39.98" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N541238.70 E0183133.30" ThresholdElevation="420.00" TrueBearing="219.98" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kolonia (C)" Position="N533433.60 E0211622.70" IcaoIdentifier="" LocalIdentifier="" Elevation="460.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Trawa, oznakowane. Od płd. linia elektryczna - zdjęty fragment w osi pasa. Wskaźnik wiatru po wsch.stronie pasa" Caution="" LastUpdated="20200615201105" AuthorFlags="0">
+    <Runways>
+      <Runway Length="340.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="17" ThresholdPosition="N533439.10 E0211621.70" ThresholdElevation="460.00" TrueBearing="173.82" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="35" ThresholdPosition="N533428.10 E0211623.70" ThresholdElevation="460.00" TrueBearing="353.82" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kolonia Słoja (C)" Position="N531958.40 E0233703.30" IcaoIdentifier="" LocalIdentifier="" Elevation="670.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Ireneusz Krajewski +48 603 995 594" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Rękaw wiatrowy w połowie pasa. Możliwe nierówności na drodze startowej spowodowane przez pojazdy. Konieczny kontakt przed przylotem. Lądowisko w strefie ADIZ" Caution="" LastUpdated="20200615201201" AuthorFlags="0">
+    <Runways>
+      <Runway Length="512.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N531958.80 E0233649.50" ThresholdElevation="670.00" TrueBearing="92.76" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N531958.00 E0233717.10" ThresholdElevation="670.00" TrueBearing="272.77" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Konary (C)" Position="N521714.70 E0201638.70" IcaoIdentifier="" LocalIdentifier="" Elevation="225.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="Jacek Słomka +48 602 340 297" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty po północnej stronie bazy transportowej. Przy progu 26 linia energetyczna oznaczona białą i czerwoną kulą. Lądowanie zalecane na kierunku 08. Świetnie utrzymany pas startowy: ubity, zwałowany, wykoszony, trawa jak na polu golfowym (X.2017)" Caution="" LastUpdated="20200615225059" AuthorFlags="0">
+    <Runways>
+      <Runway Length="350.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="08" ThresholdPosition="N521714.00 E0201629.50" ThresholdElevation="225.00" TrueBearing="82.90" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N521715.40 E0201647.90" ThresholdElevation="225.00" TrueBearing="262.91" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Krąplewice (C)" Position="N533046.70 E0182530.00" IcaoIdentifier="" LocalIdentifier="" Elevation="280.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Dariusz Witczak +48 608 675 497" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pofalowany pas. Hangar" Caution="" LastUpdated="20200615201327" AuthorFlags="0">
+    <Runways>
+      <Runway Length="355.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N533047.20 E0182520.40" ThresholdElevation="280.00" TrueBearing="95.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N533046.20 E0182539.60" ThresholdElevation="280.00" TrueBearing="275.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Księginki (C)" Position="N515723.20 E0170432.70" IcaoIdentifier="" LocalIdentifier="" Elevation="334.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20200615201400" AuthorFlags="0">
+    <Runways>
+      <Runway Length="296.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="14" ThresholdPosition="N515726.60 E0170427.20" ThresholdElevation="334.00" TrueBearing="135.08" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="32" ThresholdPosition="N515719.80 E0170438.20" ThresholdElevation="334.00" TrueBearing="315.08" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kuczyn (corrected) (C)" Position="N524319.10 E0223118.80" IcaoIdentifier="" LocalIdentifier="" Elevation="396.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Tomasz Murawski +48 886 254 690" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. W środku drogi startowej poprzeczna droga polna, bez istotnej nierówności. Hangar po wschodniej stronie drogi startowej, w jej środkowej części, pokryty charakterystycznym żółto/niebieskim dachem. Na hangarze rękaw wiatrowy. Przed progiem 16 strumień. Próg 16 obniżony o kilka metrów w stosunku do pozostałej części drogi startowej. Na wysokości hangaru krawędzie drogi startowej oznaczone białymi chorągiewkami. Na asfaltowej szosie przed progiem 34 biała linia wyznaczająca centralną drogi startowej" Caution="" LastUpdated="20200615201829" AuthorFlags="0">
+    <Runways>
+      <Runway Length="686.00" Width="18.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="16" ThresholdPosition="N524329.20 E0223111.40" ThresholdElevation="396.00" TrueBearing="156.06" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="34" ThresholdPosition="N524309.00 E0223126.20" ThresholdElevation="396.00" TrueBearing="336.07" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kurnatowice (C)" Position="N523531.20 E0160512.40" IcaoIdentifier="" LocalIdentifier="" Elevation="280.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="+48 602 839 102" Availability="1" URL="http://www.agro-uzosi.pl/" Email="" OpeningHours="" LandingFee="" Remarks="(26.07.2011) Trawa skoszona, pas twardy i suchy nawet po największych opadach. Podejście na kierunku 18 znad zagajnika. Pas opada w 1/2 długości ca. 8-10%. Hangar (okazjonalnie miejsce imprez towarzyskich!). Na miejscu dostępny nocleg, prysznic i wyżywienie (własne produkty gospodarstwa), rowery (MTB), sklep ok.2km. Lądowisko położone na trasie MRT, duży ruch lotnictwa wojskowego na niskim pułapie, niezbędna korespondencja z FIS" Caution="" LastUpdated="20200615201607" AuthorFlags="0">
+    <Runways>
+      <Runway Length="380.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N523537.30 E0160512.40" ThresholdElevation="280.00" TrueBearing="180.00" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N523525.10 E0160512.40" ThresholdElevation="280.00" TrueBearing="0.00" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kutno (C)" Position="N521230.90 E0192326.40" IcaoIdentifier="" LocalIdentifier="" Elevation="318.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="+48 728 981 713" Availability="1" URL="http://ksl.zoneo.pl/nasze-ladowisko/" Email="ksl@onet.eu" OpeningHours="" LandingFee="" Remarks="Lądowisko Kutnowskiego Stowarzyszenia Lotniczego. Pas trawiasty, nieoznakowany, równy, regularnie koszony." Caution="" LastUpdated="20200615201926" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="60.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N521226.90 E0192322.00" ThresholdElevation="318.00" TrueBearing="34.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N521234.90 E0192330.80" ThresholdElevation="318.00" TrueBearing="214.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Lasocin (C)" Position="N514403.90 E0154050.50" IcaoIdentifier="" LocalIdentifier="" Elevation="303.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Piotr +48 602 865 514" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Dom właścicela po południowej stronie lądowiska." Caution="" LastUpdated="20200615202000" AuthorFlags="0">
+    <Runways>
+      <Runway Length="380.00" Width="22.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N514405.50 E0154040.90" ThresholdElevation="303.00" TrueBearing="105.06" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N514402.30 E0154100.10" ThresholdElevation="303.00" TrueBearing="285.06" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Łąkta Górna (C)" Position="N494959.70 E0202439.30" IcaoIdentifier="" LocalIdentifier="" Elevation="1031.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="+48 668 674 858" Availability="1" URL="http://mrozmichal88.wixsite.com/szkolenieulneostrada" Email="zlin@poczta.onet.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty oznakowany, wznosi się o 60 stóp na kierunku 18. Lądowisko bazowania firmy LET SK WILGA. Hangar przy progu 36. Widoczne także oznakowanie 3 innych kierunków lądowania, w tym na kier. 09/27 o dług.160 m." Caution="" LastUpdated="20200615202254" AuthorFlags="0">
+    <Runways>
+      <Runway Length="225.00" Width="17.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N495003.30 E0202439.30" ThresholdElevation="995.00" TrueBearing="180.00" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N494956.10 E0202439.30" ThresholdElevation="1055.00" TrueBearing="0.00" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Łomnica (C)" Position="N514911.30 E0215140.70" IcaoIdentifier="" LocalIdentifier="" Elevation="550.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Sylwek +48 693 173 605" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Dwa pasy trawiaste. Pas 18/36 przecina linia elektryczna NN - w odległości 20 m od progu 18. Pozostałe podejścia bez przeszkód. Pas 18/36 w północnej części opada w dół o ok.5 m w kierunku progu 36. Ze względu na nachylenie pasa i linię elektryczną zalecane lądowanie na kierunku 36" Caution="" LastUpdated="20200615202322" AuthorFlags="0">
+    <Runways>
+      <Runway Length="340.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N514916.80 E0215140.40" ThresholdElevation="550.00" TrueBearing="178.06" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N514905.80 E0215141.00" ThresholdElevation="550.00" TrueBearing="358.06" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+      <Runway Length="148.00" Width="27.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N514908.40 E0215136.40" ThresholdElevation="550.00" TrueBearing="36.78" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N514912.20 E0215141.00" ThresholdElevation="550.00" TrueBearing="216.78" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Łomża (C)" Position="N531045.00 E0220538.10" IcaoIdentifier="" LocalIdentifier="" Elevation="300.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Łąki do lądowania nad Narwią - miejsce corocznych Mistrzostw Mikrolotowych Podlasia, ostatnio w latach 2013-2017. Zwane też lądowiskiem między mostami" Caution="" LastUpdated="20200615202400" AuthorFlags="0">
+    <Runways>
+      <Runway Length="315.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N531047.60 E0220530.80" ThresholdElevation="300.00" TrueBearing="120.74" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N531042.40 E0220545.40" ThresholdElevation="300.00" TrueBearing="300.74" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Łosice (C)" Position="N521418.10 E0224240.80" IcaoIdentifier="" LocalIdentifier="" Elevation="510.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Andrzej Roszczak +48 609 654 301" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Podejście 35 bez przeszkód, podejście 17 znad lasu, ale z przecinką porośniętą niższymi drzewami." Caution="" LastUpdated="20200615202438" AuthorFlags="0">
+    <Runways>
+      <Runway Length="475.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="17" ThresholdPosition="N521425.70 E0224239.10" ThresholdElevation="510.00" TrueBearing="172.20" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="35" ThresholdPosition="N521410.50 E0224242.50" ThresholdElevation="510.00" TrueBearing="352.20" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Łuków-Gręzówka (C)" Position="N515937.90 E0221920.40" IcaoIdentifier="" LocalIdentifier="" Elevation="550.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Łukasz Stokłosa (właściciel) +48 667 984 666, Zbyszek +48 723 681 717" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty o idealnie równej, gładkiej nawierzchni, w środkowej częsci utwardzony (12m) matą z tworzywa sztucznego. Poprzeczna linia elektryczna zakopana w ziemi, krańcowe słupy wyraźnie oznakowane. Drogę startową przecina na skos gruntowa droga, przejazd wyrównany - z uwagą na okazjonalny ruch kołowy" Caution="" LastUpdated="20200615202532" AuthorFlags="0">
+    <Runways>
+      <Runway Length="750.00" Width="100.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N515926.30 E0221914.70" ThresholdElevation="550.00" TrueBearing="16.84" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N515949.50 E0221926.10" ThresholdElevation="550.00" TrueBearing="196.85" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Majdan Nowy 2 (C)" Position="N502742.00 E0224550.20" IcaoIdentifier="" LocalIdentifier="" Elevation="700.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Na płd.od progu 02 mały staw. Na płn.od progu 20 hangar z utwardzonym podjazdem" Caution="" LastUpdated="20200615202609" AuthorFlags="0">
+    <Runways>
+      <Runway Length="200.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N502738.90 E0224548.90" ThresholdElevation="700.00" TrueBearing="14.91" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N502745.10 E0224551.50" ThresholdElevation="700.00" TrueBearing="194.91" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Makosieje (C)" Position="N534826.30 E0223227.30" IcaoIdentifier="EPEK" LocalIdentifier="" Elevation="404.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Wiesław Mieczkowski (właściciel) +48 502 535 251, Ireneusz Rozum +48 508 100 801" Availability="1" URL="http://mazurskiestowarzyszenielotnicze.pl/" Email="msl@mazurskiestowarzyszenielotnicze.pl" OpeningHours="" LandingFee="" Remarks="Dobrze utwardzone lądowisko położone w miejscowości Makosieje na północno - wschodnim  skraju jeziora Selmęt Wielki. Miejscowość jest malowniczo usytuowana, a jej bliska odległość od Ełku (15 km) stanowi ciekawe miejsce do lądowania, załatwienia spraw lub dłuższego odpoczynku.&#xD;&#xA;&#xD;&#xA;Lądowisko jest zarejestrowane w PAŻP i ULC. Droga startowa ma obecnie długość 450m. Starty i lądowania odbywają się na kierunkach 04 / 22.&#xD;&#xA;&#xD;&#xA;Istnieje możliwość pożyczenia samochodu lub zatankowania samolotu.&#xD;&#xA;&#xD;&#xA;Damska strona awiacji, znajdzie ukojenie w SPA (Masuria Arte), które znajduje się niedaleko położonych Staczach nad Jeziorem Rajgrodzkim.&#xD;&#xA;&#xD;&#xA;Na miejscu (w odległości ok 1 km) od lądowiska znajdują się pensjonaty zapewniające noclegi oraz wyżywienie, a na samym lądowisku jest salka briefingowa z dostępem do internetu oraz zaplecze techniczne przeznaczone do obsługi i napraw samolotu.&#xD;&#xA;&#xD;&#xA;Latamy cały rok niezależnie od pory roku i warunków atmosferycznych. Uzgodnienie lądowania po wcześniejszym kontakcie telefonicznym.&#xD;&#xA;&#xD;&#xA;Lądowania są bezpłatne, a wszelkie datki na koszenie trawy i utrzymanie pola wzlotów jest dobrowolne.  Na miejscu zapewniamy gorącą kawę i coś na ząb." Caution="" LastUpdated="20200615203039" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N534820.60 E0223219.20" ThresholdElevation="400.00" TrueBearing="40.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N534832.00 E0223235.40" ThresholdElevation="400.00" TrueBearing="220.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Makosieje" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Międzyrzec Podlaski (C)" Position="N520103.00 E0224403.40" IcaoIdentifier="" LocalIdentifier="" Elevation="500.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Sławek +48 601 756 487" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Koło bazy transportowej. Hangar w pobliżu progu 04. Rękaw po zachodniej stronie drogi startowej" Caution="" LastUpdated="20200615203131" AuthorFlags="0">
+    <Runways>
+      <Runway Length="513.00" Width="28.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N520056.70 E0224354.80" ThresholdElevation="500.00" TrueBearing="40.04" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N520109.30 E0224412.00" ThresholdElevation="500.00" TrueBearing="220.04" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nadma (C)" Position="N522149.50 E0211018.90" IcaoIdentifier="" LocalIdentifier="" Elevation="270.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Marek Sudomirski +48 502 160 606" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty równy, koszony. Niewielkie nierówności w pobliżu progu 36 na drodze żwirowej. Drzewa ok. 80 m przed progiem 18 oraz linia elektryczna ok. 250 m przed progiem 36. Droga kołowania do hangaru (w budowie) i domu właściciela nieco nierówna, ale przejezdna" Caution="" LastUpdated="20200615203236" AuthorFlags="0">
+    <Runways>
+      <Runway Length="403.00" Width="17.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N522156.00 E0211018.90" ThresholdElevation="270.00" TrueBearing="180.00" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N522143.00 E0211018.90" ThresholdElevation="270.00" TrueBearing="0.00" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nadolna (C)" Position="N515448.00 E0195122.50" IcaoIdentifier="" LocalIdentifier="" Elevation="611.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Darek Krzesiński +48 669 000 090" Availability="1" URL="" Email="darek@sky-technic.eu" OpeningHours="" LandingFee="" Remarks="Lądowisko przy firmie Sky-Technic (naprawy i serwis samolotów). Pas trawiasty oznakowany białymi markerami na krawędziach. Podejście bez przeszkód z obydwu kierunków. Wskaźnik wiatru w północnej części pasa po jego zachodniej stronie. Zabudowania gospodarzy po zachodniej stronie pasa. Dojazd do lądowiska drogą polną od Teresina." Caution="" LastUpdated="20200615203508" AuthorFlags="0">
+    <Runways>
+      <Runway Length="425.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="36" ThresholdPosition="N515441.10 E0195122.30" ThresholdElevation="611.00" TrueBearing="1.04" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="18" ThresholdPosition="N515454.90 E0195122.70" ThresholdElevation="611.00" TrueBearing="181.04" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nieborów (C)" Position="N520412.40 E0200338.00" IcaoIdentifier="" LocalIdentifier="" Elevation="286.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="+48 46 838 56 84, +48 601 30 46 69" Availability="1" URL="http://www.wyszogrodzki.com.pl/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Linia elektryczna przed progiem 35. Linia elektryczna przecinająca pas startowy zdemontowana (biało-czerwony słup na krawędzi drogi startowej w pobliżu proku 17). Lądowisko wiatrakowców przy Zakładzie Naprawy Sprzętu Pożarniczego - Jan Wyszogrodzki. Nr ewid.ULC 320" Caution="" LastUpdated="20200615203613" AuthorFlags="0">
+    <Runways>
+      <Runway Length="316.00" Width="12.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="17" ThresholdPosition="N520417.40 E0200336.40" ThresholdElevation="286.00" TrueBearing="168.87" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="35" ThresholdPosition="N520407.40 E0200339.60" ThresholdElevation="286.00" TrueBearing="348.87" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Niegowoniczki (C)" Position="N502222.40 E0192513.90" IcaoIdentifier="EPNI" LocalIdentifier="" Elevation="1043.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Wojciech Gawroński +48 535 560 220" Availability="1" URL="https://www.facebook.com/LadowiskoNiegowoniczki/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany, rękaw po zachodniej stronie cieku wodnego, w połowie długości pasa. Na podejściu 02, 200 m przed progiem, linia elektryczna. Nr eiwd.ULC 280" Caution="" LastUpdated="20200625203039" AuthorFlags="0">
+    <Runways>
+      <Runway Length="492.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N502215.00 E0192509.20" ThresholdElevation="1043.00" TrueBearing="22.06" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N502229.80 E0192518.60" ThresholdElevation="1043.00" TrueBearing="202.07" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Kraków Informacja" Frequency="119.275" Radius="" Qualifier="" />
+      <Frequency Designation="AFIS" Callsign="Niegowoniczki" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nowęcin (C)" Position="N544447.10 E0173606.60" IcaoIdentifier="" LocalIdentifier="" Elevation="10.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="+48 601 690 571" Availability="1" URL="" Email="motolot-dg@o2.pl" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20200615203937" AuthorFlags="0">
+    <Runways>
+      <Runway Length="700.00" Width="60.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N544443.10 E0173548.40" ThresholdElevation="10.00" TrueBearing="68.91" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N544451.20 E0173624.80" ThresholdElevation="10.00" TrueBearing="248.92" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nowy Tomyśl (C)" Position="N521827.40 E0160844.50" IcaoIdentifier="" LocalIdentifier="" Elevation="185.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Ryszard Skitek +48 605 625 055" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Od strony południowej droga. Hangar po stronie północnej. Stacja benzynowa w odległości 1 km" Caution="" LastUpdated="20200615204036" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="70.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01" ThresholdPosition="N521822.60 E0160843.50" ThresholdElevation="185.00" TrueBearing="7.25" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19" ThresholdPosition="N521832.20 E0160845.50" ThresholdElevation="185.00" TrueBearing="187.25" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Nysa (C)" Position="N502816.40 E0171601.10" IcaoIdentifier="" LocalIdentifier="" Elevation="710.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Arek +48 604 413 186, Marek +48 604 121 259, Wiesiek +48 604 605 040" Availability="1" URL="http://lotniskonysa.pl/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Kierunek lądowania tylko 34. Na podejściu 16, 60 m przed progiem, linia elektryczna o wysokości ok.10 m. Nawierzchnia równa, ale teren pagórkowaty. Hangar po wschodniej stronie progu 16" Caution="" LastUpdated="20200615204206" AuthorFlags="0">
+    <Runways>
+      <Runway Length="433.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="34" ThresholdPosition="N502809.70 E0171604.30" ThresholdElevation="710.00" TrueBearing="343.10" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="" ThresholdPosition="N502823.10 E0171557.90" ThresholdElevation="710.00" TrueBearing="163.10" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Olszanka (C)" Position="N520858.10 E0224007.10" IcaoIdentifier="" LocalIdentifier="" Elevation="530.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Andrzej Roszczak +48 609 654 301" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Linia elektryczna na podejściu 21. Maszt przekaźnikowy na wschód od pasa. Hangar przed progiem 03. Pas trawiasty, nieoznakowany, b.dobra nawierzchnia" Caution="" LastUpdated="20200615204309" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N520851.70 E0224001.40" ThresholdElevation="530.00" TrueBearing="28.65" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N520904.50 E0224012.80" ThresholdElevation="530.00" TrueBearing="208.66" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Osieczany (C)" Position="N495055.90 E0195915.20" IcaoIdentifier="" LocalIdentifier="" Elevation="884.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="+48 604 447 819" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko motolotniowe, pas trawiasty oznakowany. Hangar przed progiem 03" Caution="" LastUpdated="20200615204349" AuthorFlags="0">
+    <Runways>
+      <Runway Length="220.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N495052.70 E0195912.70" ThresholdElevation="884.00" TrueBearing="26.76" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N495059.10 E0195917.70" ThresholdElevation="884.00" TrueBearing="206.77" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Osieczna (C)" Position="N515457.20 E0164230.90" IcaoIdentifier="" LocalIdentifier="" Elevation="316.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Hangar przy progu 24." Caution="" LastUpdated="20200615204441" AuthorFlags="0">
+    <Runways>
+      <Runway Length="410.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="06" ThresholdPosition="N515453.70 E0164221.80" ThresholdElevation="316.00" TrueBearing="58.04" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="24" ThresholdPosition="N515500.70 E0164240.00" ThresholdElevation="316.00" TrueBearing="238.05" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Ożarów (C)" Position="N505407.90 E0213925.20" IcaoIdentifier="" LocalIdentifier="" Elevation="592.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Andrzej Gajek +48 605 225 840" Availability="1" URL="https://www.facebook.com/Lądowisko-Ożarów-1716866088587181/" Email="ladowiskoozarow@gmail.com" OpeningHours="" LandingFee="" Remarks="Hangar i rękaw wiatrowy na zachód od pasa. Droga startowa na południe od hangaru jest szersza (90 m). Po północnej stronie hangaru drogę startową przecina polna droga, ale bez nierówności. Droga startowa 02 zmienia w tym miejscu nieznacznie kierunek w prawo (o 3 stopnie). Możliwość noclegu." Caution="" LastUpdated="20200615204558" AuthorFlags="0">
+    <Runways>
+      <Runway Length="670.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N505357.50 E0213920.50" ThresholdElevation="592.00" TrueBearing="15.91" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N505418.30 E0213929.90" ThresholdElevation="592.00" TrueBearing="195.92" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Ożarów-Radio " Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pacółtowo (C)" Position="N533151.40 E0200913.30" IcaoIdentifier="" LocalIdentifier="" Elevation="645.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Pałac Pacółtowo +48 89 642 29 84, +48 609 554 010" Availability="1" URL="http://www.palacpacoltowo.com/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany, lekko pofałdowany, wznoszący się na kierunku 25. Rękaw wiatrowy przy progu 07. Linia elektryczna przed progiem 07. W odległości 600 m na wschód od lądowiska pałac z komfortowym hotelem i restauracją. Obok ośrodek jeździecki." Caution="" LastUpdated="20200615204745" AuthorFlags="0">
+    <Runways>
+      <Runway Length="850.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N533147.20 E0200851.40" ThresholdElevation="645.00" TrueBearing="72.10" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N533155.60 E0200935.20" ThresholdElevation="645.00" TrueBearing="252.11" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pawłowiczki (C)" Position="N501441.10 E0180125.00" IcaoIdentifier="EPPA" LocalIdentifier="" Elevation="818.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="PPR Joanna Sandomierska (Asystentka biura) +48 77 487 42 41" Availability="1" URL="" Email="pawlowiczki@kania.net.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Lądowisko należy do firmy &quot;Karol Kania i Synowie&quot; sp. z o.o. Nr ewid.ULC 191. PPR" Caution="" LastUpdated="20200615204952" AuthorFlags="0">
+    <Runways>
+      <Runway Length="631.00" Width="44.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N501432.00 E0180117.80" ThresholdElevation="818.00" TrueBearing="26.85" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N501450.20 E0180132.20" ThresholdElevation="818.00" TrueBearing="206.85" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pijanów (C)" Position="N510143.80 E0200916.80" IcaoIdentifier="" LocalIdentifier="" Elevation="774.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Zabudowania przed progiem 18. Nr ewid.ULC 407" Caution="" LastUpdated="20200615205053" AuthorFlags="0">
+    <Runways>
+      <Runway Length="630.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N510154.00 E0200916.20" ThresholdElevation="774.00" TrueBearing="177.88" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N510133.60 E0200917.40" ThresholdElevation="774.00" TrueBearing="357.88" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Podborze (C)" Position="N501437.40 E0211851.50" IcaoIdentifier="" LocalIdentifier="" Elevation="580.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany na narożnikach" Caution="" LastUpdated="20200615205124" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N501432.70 E0211849.50" ThresholdElevation="580.00" TrueBearing="15.22" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N501442.10 E0211853.50" ThresholdElevation="580.00" TrueBearing="195.22" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Poręba (C)" Position="N502915.80 E0192236.20" IcaoIdentifier="" LocalIdentifier="" Elevation="1056.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Ryszard Mizera +48 32 677 16 84, +48 608 028 384" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Na podejściu 29 linia wysokiego napięcia (20 m) 330 m przed progiem oraz słabo widoczna linia niskiego napięcia (8 m) 290 m przed progiem. Na podejściu 11 budynki mieszkalne 250 m przed progiem. Hangar 200 m na południe od drogi startowej. Rękaw na na budynku hangaru. Lądowisko położone 800 m od wschodniej granicy CTR EPKT." Caution="" LastUpdated="20200615205202" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="18.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N502919.10 E0192224.60" ThresholdElevation="1056.00" TrueBearing="114.11" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N502912.50 E0192247.80" ThresholdElevation="1056.00" TrueBearing="294.12" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pruszcz Gdański-Aeroklub (C)" Position="N541506.50 E0184015.30" IcaoIdentifier="" LocalIdentifier="" Elevation="16.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="+48 261 271 472" Availability="1" URL="http://www.aeroklub.gda.pl" Email="info@aeroklub.gda.pl" OpeningHours="" LandingFee="" Remarks="Lądowisko Aeroklubu Gdańskiego. Pas trawiasty, na północ od pasa betonowego. Krąg południowy. Nr ewid.ULC 199. Obowiązują zasady jak na lotniskach wojskowych, opisane w dziale MIL AIP Polska AD 1.1" Caution="" LastUpdated="20200615205552" AuthorFlags="0">
+    <Runways>
+      <Runway Length="1200.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N541510.20 E0183942.80" ThresholdElevation="16.00" TrueBearing="101.02" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N541502.80 E0184047.80" ThresholdElevation="16.00" TrueBearing="281.04" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Pruszcz-Radio " Frequency="122.4" Radius="" Qualifier="" />
+      <Frequency Designation="TWR" Callsign="Pruszcz Tower (MIL)" Frequency="126.500" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Przytuły (C)" Position="N530703.30 E0214300.30" IcaoIdentifier="" LocalIdentifier="" Elevation="330.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Podejście 25 znad lasu. Na podejściu 07 linia elektryczna. Trawa, nieoznakowany" Caution="" LastUpdated="20200615205638" AuthorFlags="0">
+    <Runways>
+      <Runway Length="420.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N530700.80 E0214249.80" ThresholdElevation="330.00" TrueBearing="68.37" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N530705.80 E0214310.80" ThresholdElevation="330.00" TrueBearing="248.37" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pstrokonie (C)" Position="N513103.50 E0185230.30" IcaoIdentifier="" LocalIdentifier="" Elevation="442.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko paralotniowe. Pas trawiasty, oznakowany" Caution="" LastUpdated="20200615205704" AuthorFlags="0">
+    <Runways>
+      <Runway Length="250.00" Width="23.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="05" ThresholdPosition="N513100.80 E0185225.50" ThresholdElevation="442.00" TrueBearing="47.83" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="23" ThresholdPosition="N513106.20 E0185235.10" ThresholdElevation="442.00" TrueBearing="227.83" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Rawicz (C)" Position="N513654.90 E0165414.40" IcaoIdentifier="" LocalIdentifier="" Elevation="305.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko motolotniowe. Pas trawiasty, oznakowany. Droga startowa przebiega po łuku z wybrzuszeniem na południe" Caution="" LastUpdated="20200615205741" AuthorFlags="0">
+    <Runways>
+      <Runway Length="440.00" Width="10.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N513656.10 E0165403.10" ThresholdElevation="305.00" TrueBearing="99.66" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N513653.70 E0165425.70" ThresholdElevation="305.00" TrueBearing="279.67" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Ręczaje (C)" Position="N521910.80 E0211929.20" IcaoIdentifier="" LocalIdentifier="" Elevation="310.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Ryszard Zagańczyk, PPR SMS +48 535 331 509" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Wznowiono działanie lądowiska z dniem 01.07.2019. Pas trawiasty, oznakowany. Podejście z obu kierunków bez przeszkód. Hangar. Oznakowano narożniki i progi drogi startowej. Lądowisko bez łączności radiowej. Prosimy uważać na loty modeli i próby profesjonalnych dronów (patrz. aplikacja DroneRadar). Aktywny monitoring i rejestracja zdarzeń. Każdy przylatuje na własną odpowiedzialność. UWAGA: Absolutny zakaz lotów śmigłowcowych i manewrów nad pasem bez autoryzacji za pomocą SMS!! Dotyczy również wiatrakowców." Caution="" LastUpdated="20200615210008" AuthorFlags="0">
+    <Runways>
+      <Runway Length="280.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N521906.40 E0211926.60" ThresholdElevation="310.00" TrueBearing="19.87" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N521915.20 E0211931.80" ThresholdElevation="310.00" TrueBearing="199.87" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Ręczaje-Radio " Frequency="122.6" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Robakowo (C)" Position="N532116.10 E0184002.10" IcaoIdentifier="" LocalIdentifier="" Elevation="274.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Dawid Prowancki +48 606 720 301" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany, równy, regularnie koszony. Długość 400 m podana jest od progu do progu, jednakże przy lądowaniu na kierunku 22 jest dodatkowo do dyspozycji 100 m dobiegu za końcem pasa, zaś przy lądowaniu na kierunku 04 - dodatkowe 30 m. Podejście 22 znad budynków firmy, a 04 - nad niewielkim zagajnikiem (7-8 m). Rękaw wiatrowy po wschodniej stronie, w połowie pasa. Hangar w budowie w pobliżu progu 22." Caution="" LastUpdated="20200615210046" AuthorFlags="0">
+    <Runways>
+      <Runway Length="400.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="04" ThresholdPosition="N532111.40 E0183954.70" ThresholdElevation="274.00" TrueBearing="43.25" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="22" ThresholdPosition="N532120.80 E0184009.50" ThresholdElevation="274.00" TrueBearing="223.25" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Rybno (C)" Position="N521432.20 E0200735.50" IcaoIdentifier="EPRS" LocalIdentifier="" Elevation="280.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Marcin Słomka +48 692 436 753, alternate: +48 604 904 994" Availability="1" URL="" Email="marcinslomka@wp.pl" OpeningHours="" LandingFee="" Remarks="Lądowisko trawiaste koło firmy transportowej TTS. Dobrze utrzymana, równa nawierzchnia pasa. Lądowisko aktualnie o długości 550m pomiędzy markerami, dodatkowy wybieg 100 m z kursem 18. Trawa koszona na bieżąco. Hangar po zachodniej stronie drogi startowej. Na wysokości hangaru (90 m od progu 36) oznakowane lądowisko śmigłowców (wyłożone kostką). Rękaw wiatrowy na maszcie przy zachodniej krawędzi DS. Podejście 18 bez przeszkód. Podejście 36 znad 2 drzew bezpośrednio przed progiem 36, linii elektrycznej SN (5 m na pólnoc od progu 36) i drugiej linii elektrycznej (40 m na północ od progu 36). Nr ewid.ULC 404" Caution="" LastUpdated="20200615210335" AuthorFlags="0">
+    <Runways>
+      <Runway Length="550.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="00" ThresholdPosition="N521424.90 E0200734.90" ThresholdElevation="280.00" TrueBearing="2.87" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="18" ThresholdPosition="N521439.50 E0200736.10" ThresholdElevation="280.00" TrueBearing="182.87" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Rysie (C)" Position="N521313.10 E0212824.70" IcaoIdentifier="" LocalIdentifier="" Elevation="442.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Janusz Milewski +48 601 345 955" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Hangar przed progiem 20. W okolicach hangaru dwie linie elektryczne: ŚN i NN, jak na zdjęciu. Na podejściu 20, przed hangarem, wysokie drzewo. Podejście 02 bez przeszkód. Po wschodniej stronie drogi startowej obszar wykoszony, ale mniej równy (w 10.2017 jego nawierzchnia nieco uszkodzona przez dziki). Po intensywnych opadach deszczu nawierzchnia może być rozmoknięta, miękka i nie nadająca się do lądowania - szczególnie we wschodniej części lądowiska." Caution="" LastUpdated="20200615210415" AuthorFlags="0">
+    <Runways>
+      <Runway Length="370.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N521307.30 E0212822.20" ThresholdElevation="442.00" TrueBearing="14.78" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N521318.90 E0212827.20" ThresholdElevation="442.00" TrueBearing="194.78" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Sady-Kolonia (C)" Position="N512727.60 E0204047.30" IcaoIdentifier="" LocalIdentifier="" Elevation="500.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Sebastian +48 785 854 585, Cezary +48 603 872 416" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, wyrażnie oznakowany słupkami drogowymi ustawionymi wzdłuż jego krawędzi. Rękaw wiatrowy po północnej stronie pasa. Przed progiem 26 ogrodzony hangar. Na końcu pasa 26 droga startowa jest przedłużona o dodatkowy odcinek 150 x 15 m za przepustem przez rów (jak na zdjęciu). Na końcu pasa 08 droga startowa jest przedłużona o dodatkowy odcinek 50 x 15 m obok hangaru (brama pomiędzy zasadniczą częścią drogi startowej a rejonem hangaru jest zazwyczaj otwarta). Nr ewid.ULC 397" Caution="" LastUpdated="20200615210452" AuthorFlags="0">
+    <Runways>
+      <Runway Length="560.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="08" ThresholdPosition="N512726.30 E0204032.90" ThresholdElevation="500.00" TrueBearing="81.77" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N512728.90 E0204101.70" ThresholdElevation="500.00" TrueBearing="261.77" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Siedlików (C)" Position="N512840.50 E0175638.90" IcaoIdentifier="" LocalIdentifier="" Elevation="575.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Robert Ślęzak +48 609 196 140" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Linia elektryczna na ukos przecina pas" Caution="" LastUpdated="20200615210554" AuthorFlags="0">
+    <Runways>
+      <Runway Length="685.00" Width="55.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N512830.00 E0175633.10" ThresholdElevation="575.00" TrueBearing="18.97" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N512851.00 E0175644.70" ThresholdElevation="575.00" TrueBearing="198.97" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Skierniewice-Psary (C)" Position="N515309.80 E0201930.10" IcaoIdentifier="" LocalIdentifier="" Elevation="485.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, ogrodzony. Progi oznakowane. Po południowej stronie pasa ogrodzone wybiegi dla koni. Nr ewid.ULC 336" Caution="" LastUpdated="20200615210644" AuthorFlags="0">
+    <Runways>
+      <Runway Length="530.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="12" ThresholdPosition="N515314.10 E0201918.10" ThresholdElevation="485.00" TrueBearing="120.13" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="30" ThresholdPosition="N515305.50 E0201942.10" ThresholdElevation="485.00" TrueBearing="300.13" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Stary Kraszew (C)" Position="N522444.30 E0211457.70" IcaoIdentifier="" LocalIdentifier="" Elevation="280.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Stanisław Laskowski +48 604 846 801" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany białymi chorągiewkami na krawędziach, równa i gładka nawierzchnia. Stojanki po wschodniej stronie pasa." Caution="" LastUpdated="20200615211009" AuthorFlags="0">
+    <Runways>
+      <Runway Length="350.00" Width="17.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01" ThresholdPosition="N522438.80 E0211455.60" ThresholdElevation="280.00" TrueBearing="13.12" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19" ThresholdPosition="N522449.80 E0211459.80" ThresholdElevation="280.00" TrueBearing="193.12" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Stróże (C)" Position="N494047.60 E0205821.10" IcaoIdentifier="" LocalIdentifier="" Elevation="1300.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Bogusław Gryboś" Availability="1" URL="" Email="bogdanfly@op.pl" OpeningHours="" LandingFee="" Remarks="Lądowisko &quot;Zalasem&quot;. Dwa rękawy, jeden na hangarze, drugi obok pasa startowego.Zalecany krąg nadlotniskowy południowy nad lasem. Linia wysokiego napiecia w odległości 130 m na płn od osi pasa." Caution="" LastUpdated="20200615211056" AuthorFlags="0">
+    <Runways>
+      <Runway Length="270.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N494047.50 E0205814.40" ThresholdElevation="1300.00" TrueBearing="88.73" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N494047.70 E0205827.80" ThresholdElevation="1300.00" TrueBearing="268.73" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Strzegom-Stawiska (C)" Position="N505542.90 E0161936.90" IcaoIdentifier="" LocalIdentifier="" Elevation="760.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Bogdan Stefanko +48 530 290 667" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, równy, wałowany, koszony. Na podejściu 15 niewielkie drzewa przy drodze (przewidziane do wycięcia). Podejście 33 bez przeszkód. Przy lądowaniu na kierunku 33 w razie potrzeby dobieg można kontynuować na drodze odchodzącej pod koniec pasa na skos w prawą stronę. Do dyspozycji hangar 18x18 m. Możliwość hangarowania: 50 zł netto za dzień (przy dłuższych pobytach do negocjacji)" Caution="" LastUpdated="20200615211148" AuthorFlags="0">
+    <Runways>
+      <Runway Length="600.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="15" ThresholdPosition="N505551.30 E0161929.20" ThresholdElevation="760.00" TrueBearing="149.97" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="33" ThresholdPosition="N505534.50 E0161944.60" ThresholdElevation="760.00" TrueBearing="329.97" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Strzelce Małe-Szczurowa (C)" Position="N500707.60 E0203609.00" IcaoIdentifier="" LocalIdentifier="" Elevation="578.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="+48 14 632 09 60" Availability="1" URL="http://www.gck-szczurowa.pl/index.php?dz=page&amp;id=153" Email="dyrektorgck@szczurowa.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty. Hangar we wsi przy szosie - ok.400 m na zachód od drogi startowej. Kierunek drogi kołowania 115/195. Nr ewid.ULC 299" Caution="" LastUpdated="20200615211359" AuthorFlags="0">
+    <Runways>
+      <Runway Length="525.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N500700.20 E0203602.60" ThresholdElevation="578.00" TrueBearing="29.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N500715.00 E0203615.40" ThresholdElevation="578.00" TrueBearing="209.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Suliszew 1 (C)" Position="N515538.20 E0201631.00" IcaoIdentifier="" LocalIdentifier="" Elevation="400.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Zbigniew Kosiorek +48 601 347 968" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Małe lądowisko na wschód od sąsiedniego, większego pod tą samą nazwą. Pas trawiasty, nieoznakowany. Wschodnia część drogi startowej (o długosci 200 m) ma szerokość 15 m, zachodnia (o długości 100 m) - 10 m. Rozdziela je droga polna - uwaga na ruch kołowy! Na progu 26 ogrodzenie. Podejście 26 znad przeszkód - kolejno: linia elektryczna SN, dom mieszkalny, brzozy, hangar, ogrodzenie. Podejście 08 bez przeszkód. PPR. Zaleca się krąg nadlotniskowy północny." Caution="" LastUpdated="20200615211456" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="10.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="08" ThresholdPosition="N515537.50 E0201623.20" ThresholdElevation="400.00" TrueBearing="81.71" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N515538.90 E0201638.80" ThresholdElevation="400.00" TrueBearing="261.72" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Sząbruk (C)" Position="N534417.90 E0201918.00" IcaoIdentifier="" LocalIdentifier="" Elevation="407.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany" Caution="" LastUpdated="20200615211511" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N534417.50 E0201909.90" ThresholdElevation="407.00" TrueBearing="85.25" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N534418.30 E0201926.10" ThresholdElevation="407.00" TrueBearing="265.25" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Szorce (C)" Position="N531707.40 E0224027.10" IcaoIdentifier="" LocalIdentifier="" Elevation="360.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Antoni Bajkiewicz +48 601 358 300" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Domek pilota. W pobliżu progu 05 grunt może być lekko podmokły. Droga startowa za progiem 05 wydłużona w kierunku zachodnim na dodatkowy dobieg lub stanowiska postojowe. Rękaw wiatrowy na zabudowaniach na wschód od drogi startowej. W odległości 650 m na zachód od progu 08 granica Biebrzańskiego Parku Narodowego (EP R23) - nie wlatywać!" Caution="" LastUpdated="20200615211550" AuthorFlags="0">
+    <Runways>
+      <Runway Length="420.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="05" ThresholdPosition="N531703.10 E0224018.30" ThresholdElevation="360.00" TrueBearing="50.76" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="23" ThresholdPosition="N531711.70 E0224035.90" ThresholdElevation="360.00" TrueBearing="230.76" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Świdnica-Krzczonów (C)" Position="N504901.30 E0163455.10" IcaoIdentifier="EPSS" LocalIdentifier="" Elevation="823.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Kamil Skrzypek +48 601 740 200" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="a podejściu 29 przebiega linia napięcia oznaczona kulami. Po północnej stronie w odległości 200 m linia energetyczna o wysokości 5 m. Na przewodach kule w kolorze pomarańczowym. Lądowisko położone na terenie równinnym. Po stronie północnowschodniej w odległości 700 m las wysokość 30 m. Po południowej stronie w odległości 100 m droga łącząca miejscowości Krzczonów - Książnica. MTOM 5700 KG . Lądowisko całoroczne czynne od świtu do zmroku. Dostępne po uzgodnieniu z zarządzającym. Po południowej stronie droga kołowania.&#xD;&#xA;&#xD;&#xA;Oznaczenie drogi startowej ograniczniki krawędziowe pomalowane na biało. Pas równy bez dziur. Płaszczyzna postojowa kostka betonowa. Możliwość hangarowania i tankowania. Na hangarze maszt wskaźnika wiatru w kolorach ostrzegawczych po zmroku oświetlony lampa ostrzegawcza koloru czerwonego." Caution="" LastUpdated="20200615211804" AuthorFlags="0">
+    <Runways>
+      <Runway Length="461.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="11" ThresholdPosition="N504904.20 E0163444.20" ThresholdElevation="823.00" TrueBearing="112.82" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N504858.40 E0163506.00" ThresholdElevation="823.00" TrueBearing="292.83" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Radio" Frequency="120.140" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Tczew (C)" Position="N540621.60 E0184534.00" IcaoIdentifier="" LocalIdentifier="" Elevation="4.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty oznakowany. W poblizu liczne linie wysokiego napięcia" Caution="" LastUpdated="20200615211830" AuthorFlags="0">
+    <Runways>
+      <Runway Length="250.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N540617.90 E0184531.40" ThresholdElevation="4.00" TrueBearing="22.38" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N540625.30 E0184536.60" ThresholdElevation="4.00" TrueBearing="202.38" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Trójca (C)" Position="N510910.70 E0150554.10" IcaoIdentifier="" LocalIdentifier="" Elevation="705.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Włodek +48 501 175 186" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Przy hangarze rękaw, pas delikatnie pochylony w kierunku południowym" Caution="" LastUpdated="20200615212248" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="21.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N510918.80 E0150553.70" ThresholdElevation="705.00" TrueBearing="178.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N510902.60 E0150554.60" ThresholdElevation="705.00" TrueBearing="358.01" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Truskolasy (C)" Position="N505222.10 E0185055.60" IcaoIdentifier="" LocalIdentifier="" Elevation="981.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Bogdan Zachowski +48 503 890 664" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty. Hangar przed progiem 05. Na podejściu 23, ok.100 przed progiem, w zagłębieniu, linia elektryczna SN." Caution="" LastUpdated="20200615212351" AuthorFlags="0">
+    <Runways>
+      <Runway Length="410.00" Width="26.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="05" ThresholdPosition="N505218.10 E0185047.20" ThresholdElevation="981.00" TrueBearing="52.93" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="23" ThresholdPosition="N505226.10 E0185104.00" ThresholdElevation="981.00" TrueBearing="232.93" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Trutnowo (C)" Position="N532752.30 E0180539.30" IcaoIdentifier="" LocalIdentifier="" Elevation="344.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany" Caution="" LastUpdated="20200615212424" AuthorFlags="0">
+    <Runways>
+      <Runway Length="250.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N532753.00 E0180532.60" ThresholdElevation="344.00" TrueBearing="99.96" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N532751.60 E0180546.00" ThresholdElevation="344.00" TrueBearing="279.96" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Trzciano (C)" Position="N534832.90 E0190429.90" IcaoIdentifier="" LocalIdentifier="" Elevation="243.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Ryszard Włodarczak +48 501 470 483" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Na progu 13 ściana lasu i kilkadziesiąt metrów lasu przylegającego do lewej krawędzi pasa. Na progu 31 - linia niskiego napięcia. Pas wznosi się na kierunku 13. Wiata grillowa przed progiem 13." Caution="" LastUpdated="20200615212512" AuthorFlags="0">
+    <Runways>
+      <Runway Length="400.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="13" ThresholdPosition="N534837.10 E0190421.70" ThresholdElevation="250.00" TrueBearing="130.96" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="31" ThresholdPosition="N534828.70 E0190438.10" ThresholdElevation="275.00" TrueBearing="310.96" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Turośń Kościelna (C)" Position="N530003.70 E0230319.80" IcaoIdentifier="" LocalIdentifier="" Elevation="433.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, ukośnie w stosunku do dawnego pasa startowego (dawny pas zlokalizowany wzdłuż zabudowań lądowiska nieczynny). Hangar przed progiem 21. Przewidywane przedłużenie pasa po stronie południowej. Lądowisko położone wzdłuż farmy baterii słonecznych, na której umieszczony jest rękaw wiatrowy." Caution="" LastUpdated="20200615212537" AuthorFlags="0">
+    <Runways>
+      <Runway Length="316.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N525959.20 E0230315.70" ThresholdElevation="433.00" TrueBearing="28.74" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N530008.20 E0230323.90" ThresholdElevation="433.00" TrueBearing="208.75" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Walendów (C)" Position="N520450.40 E0205111.10" IcaoIdentifier="" LocalIdentifier="" Elevation="343.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="+48 694 789 789" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty nieoznakowany. W odległości 67 m od progu 09 pas startowy przecina linia średniego napięcia. Przed progiem 09 linia elektryczna NN ukośnie do kierunku podejścia. W odległości 2.2 km na płd-wsch od lądowiska maszt przekaźnikowy. W zachodniej części pasa grunt wilgotny - wschodnia część nieco wyższa i bardziej sucha. Nr ewid.ULC 381" Caution="" LastUpdated="20200615212755" AuthorFlags="0">
+    <Runways>
+      <Runway Length="720.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N520451.40 E0205052.30" ThresholdElevation="343.00" TrueBearing="94.95" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N520449.40 E0205129.90" ThresholdElevation="343.00" TrueBearing="274.96" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wałyczyk (C)" Position="N531436.90 E0185910.50" IcaoIdentifier="" LocalIdentifier="" Elevation="285.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Ireneusz Topolewski +48 601 301 078" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, progi oznakowane. Całkowita długość drogi startowej 370 m, ale 70 m od strony progu 20 ma nawierzchnię piaszczystą - zalecane ominięcie (VI.2015 r.). Dom gospodarza w pobliżu progu 02." Caution="" LastUpdated="20200615212834" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N531432.30 E0185907.70" ThresholdElevation="285.00" TrueBearing="20.02" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N531441.50 E0185913.30" ThresholdElevation="285.00" TrueBearing="200.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Radio " Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Więckowy (C)" Position="N540344.40 E0182203.30" IcaoIdentifier="" LocalIdentifier="" Elevation="517.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Paweł Piętak +48 606 444 879" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Dwa słupy w bezpośredniej bliskości pasa, w 1/3 długości pasa 26. Hangar przy progu 08. Restauracja w odległości ok.1500 m, hotel &quot;Kamienny Zdrój&quot; ok.2 km, stacja benzynowa całodobowa ok.4 km." Caution="" LastUpdated="20200615212929" AuthorFlags="0">
+    <Runways>
+      <Runway Length="785.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="08" ThresholdPosition="N540342.20 E0182142.10" ThresholdElevation="517.00" TrueBearing="79.95" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N540346.60 E0182224.50" ThresholdElevation="517.00" TrueBearing="259.96" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wilków Średzki (C)" Position="N510351.40 E0164158.70" IcaoIdentifier="" LocalIdentifier="" Elevation="489.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="Wiesław Lisek +48 601 997 472" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Wlot przez punkt “KILO” CTR Wrocław - kontakt z Wrocław TWR 120,250 MHz. Nie zalecany start i lądowanie na kierunku 09 z uwagi na pobliskie zabudowania. Drogi startowe oznaczone kontrastującymi znacznikami w kolorze żółtym. Wskaźnik wiatru “rękaw” na szczycie hangaru. Nr ewid.ULC 277" Caution="" LastUpdated="20200615213140" AuthorFlags="0">
+    <Runways>
+      <Runway Length="288.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="09" ThresholdPosition="N510351.10 E0164151.30" ThresholdElevation="489.00" TrueBearing="86.28" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N510351.70 E0164206.10" ThresholdElevation="489.00" TrueBearing="266.28" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+      <Runway Length="357.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N510402.30 E0164149.60" ThresholdElevation="489.00" TrueBearing="173.09" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N510350.90 E0164151.80" ThresholdElevation="489.00" TrueBearing="353.09" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Wilków-Radio " Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wisznice (C)" Position="N514643.60 E0230959.00" IcaoIdentifier="" LocalIdentifier="" Elevation="505.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Piotr Frończuk +48 501 613 425, Paweł Frończuk + 48 501 613 421" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany, oświetlony (!). Równa, starannie utrzymana nawierzchnia. Podejście z obu kierunków bez przeszkód. Hangar w pobliżu progu 13 z nazwą lądowiska" Caution="" LastUpdated="20200615213303" AuthorFlags="0">
+    <Runways>
+      <Runway Length="510.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="13" ThresholdPosition="N514648.60 E0230948.40" ThresholdElevation="505.00" TrueBearing="127.32" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="31" ThresholdPosition="N514638.60 E0231009.60" ThresholdElevation="505.00" TrueBearing="307.32" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wiśniew (C)" Position="N520450.10 E0221550.40" IcaoIdentifier="" LocalIdentifier="" Elevation="500.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Krzysztof Jastrzębski +48 602 596 045" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas startowy trawiasty, stan idealny. Hangar po północnej stronie pasa. Obok hangaru domek pilota z możliwością noclegu. Charakterystyczny zbiornik wodny na południe od lądowiska" Caution="" LastUpdated="20200615213344" AuthorFlags="0">
+    <Runways>
+      <Runway Length="530.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N520451.70 E0221536.70" ThresholdElevation="500.00" TrueBearing="100.76" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N520448.50 E0221604.10" ThresholdElevation="500.00" TrueBearing="280.76" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Witnica (C)" Position="N524023.60 E0145208.90" IcaoIdentifier="" LocalIdentifier="" Elevation="63.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Tadeusz Filip +48 601 440 420" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Przed progiem 19 hangar. Po wschodniej stronie hangaru przedłużenie drogi startowej o dodatkowy odcinek o szerokości 17 m i długości 50 m, co daje całkowitą długość (zwężonej) drogi startowej 480 m. W odległości 360 m przed progiem 01 linia elektryczna WN" Caution="" LastUpdated="20200615213447" AuthorFlags="0">
+    <Runways>
+      <Runway Length="430.00" Width="36.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01" ThresholdPosition="N524016.80 E0145206.30" ThresholdElevation="63.00" TrueBearing="13.05" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19" ThresholdPosition="N524030.40 E0145211.50" ThresholdElevation="63.00" TrueBearing="193.05" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wola Korytnicka (C)" Position="N522445.30 E0214917.80" IcaoIdentifier="" LocalIdentifier="" Elevation="450.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Tadeusz Rowicki +48 505 140 555" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. W południowej części pas ma szerokość 50 m, w północnej - 40 m. W odległości 110 m od progu 01 poprzeczna linia elektryczna zdemontowana w obrębie pasa startowego (oznaczone słupy skrajne). W odległości 200 m od progu 19 poprzeczna droga polna, wyrównana. Na południe od progu 01 duży hangar. Wskaźnik wiatru na hangarze. Nr ewid.ULC 307" Caution="" LastUpdated="20200615213541" AuthorFlags="0">
+    <Runways>
+      <Runway Length="760.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01" ThresholdPosition="N522433.10 E0214915.00" ThresholdElevation="450.00" TrueBearing="7.97" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19" ThresholdPosition="N522457.50 E0214920.60" ThresholdElevation="450.00" TrueBearing="187.97" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wola Krakowiańska 1 (C)" Position="N520137.60 E0204826.20" IcaoIdentifier="" LocalIdentifier="" Elevation="430.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Grzegorz Zaremba +48 666 360 400" Availability="1" URL="" Email="grzegorz@conair.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany. Wałowany, koszony. Hangar po zachodniej stronie progu 15. Rękaw wiatrowy na dachu hangaru. Podejście 33 bez przeszkód. Na podejściu 15 dwa drzewa 80 m przed progiem. Na kierunku 15 przedłużenie pasa o długości 240 m za drogą polną, ale przejazd przez drogę na razie nierówny. W pobliżu progu 33 położony jest próg 01 pasa startowego sąsiedniego lądowiska Wola Krakowiańska 2. Z uwagi na liczne skargi okolicznych mieszkańców bardzo prosimy o przestrzeganie procedur anty-hałasowych i przedewszystkim zasad bezpieczeństwa zgodnie z ogólnymi przepisami wykonywania lotów z widzialnoscią (VFR) Jednocześnie informujemy że zabrania się wykonywania lotów szkolnych, niskich przelotów oraz TO-GO bez uzyskania zgody zarządzającego. Z uwagi na fakt iż nie są pobierane żadne opłaty za starty i lądowania czy postój na terenie lądowiska prosimy uszanować gościnność planując WK jako DEST lub DEP (pełne lądowanie). Procedury dolotowe i odlotowe prosimy planować w oparciu o północno-wschodni (NE) krąg nadlotniskowy na standardowej wysokości 1000ft AGL. czyli w zaokrągleniu 1500ft AMSL. Przypominamy o strefie RMZ i umownej na tą chwilę częstotliwości 123.450Mhz." Caution="" LastUpdated="20200615213721" AuthorFlags="0">
+    <Runways>
+      <Runway Length="730.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="15" ThresholdPosition="N520148.30 E0204818.10" ThresholdElevation="430.00" TrueBearing="155.01" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="33" ThresholdPosition="N520126.90 E0204834.30" ThresholdElevation="430.00" TrueBearing="335.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wola Krakowiańska 2 (C)" Position="N520137.00 E0204840.40" IcaoIdentifier="" LocalIdentifier="" Elevation="430.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Regina Wesołowska +48 501 459 129, Rafal Popławski +48 609 500 370" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lądowisko prywatne, lądowanie po uzgodnieniu właścicielem. Pas trawiasty, nieoznakowany, równy, zadbany. Przed progiem 19 charakterystyczne dwa białe hangary po obu stronach pasa. Przed hangarami, od strony drogi startowej, ogrodzenie z bramą. W pobliżu progu 01 położony jest próg 33 pasa startowego sąsiedniego lądowiska Wola Krakowiańska 1. 7 km na płn-wsch. od lądowiska granica CTR EPWA" Caution="" LastUpdated="20200615213839" AuthorFlags="0">
+    <Runways>
+      <Runway Length="650.00" Width="38.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01" ThresholdPosition="N520126.50 E0204839.50" ThresholdElevation="430.00" TrueBearing="3.02" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19" ThresholdPosition="N520147.50 E0204841.30" ThresholdElevation="430.00" TrueBearing="183.02" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wolica Ługowa (C)" Position="N500551.70 E0214331.80" IcaoIdentifier="" LocalIdentifier="" Elevation="700.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="+48 605 050 299" Availability="1" URL="https://pl-pl.facebook.com/pages/category/Airport/Bauerówka-Airpark-Village-168882450330641/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany, doskonale utrzymany. Po południowej stronie pasa zabudowania lądowiska z hangarem. Obok wystawa samolotów i pojazdów wojskowych. Nawierzchnia trawiasta idealnie równa, zarówno na drodze startowej jak i na terenie całego lądowiska. W zachodniej części lądowiska wyraźnie widoczny rów melioracyjny pomiędzy drogą startową a hangarem - z przepustami do kołowania. Wygodne omnięcie rowu po jego wschodniej stronie." Caution="" LastUpdated="20200615214406" AuthorFlags="0">
+    <Runways>
+      <Runway Length="400.00" Width="32.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="07" ThresholdPosition="N500549.10 E0214322.60" ThresholdElevation="700.00" TrueBearing="66.26" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N500554.30 E0214341.00" ThresholdElevation="700.00" TrueBearing="246.26" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wysoka (C)" Position="N524546.00 E0150015.80" IcaoIdentifier="" LocalIdentifier="" Elevation="250.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="OSL Lotnik, Maciej Rudnicki +48 696 581 932" Availability="1" URL="https://www.facebook.com/motolotnia.eu/" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty. Linia elektryczna WN 520 m przed progiem 23 (na skos w stosunku do kierunku lądowania). Krawędź lasu 160 m przed progiem 05. Wiatraki elektrowni wiatrowej w odległości 1.5 km na wschód od lądowiska. Na lądowisku rękaw wiatrowy" Caution="" LastUpdated="20200615214332" AuthorFlags="0">
+    <Runways>
+      <Runway Length="320.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="06" ThresholdPosition="N524543.00 E0150008.80" ThresholdElevation="250.00" TrueBearing="54.69" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="24" ThresholdPosition="N524549.00 E0150022.80" ThresholdElevation="250.00" TrueBearing="234.69" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wyszonowice (C)" Position="N504700.50 E0170940.10" IcaoIdentifier="" LocalIdentifier="" Elevation="497.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Janusz +48 601 700 271" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Dwa pasy trawiaste, nieoznakowane, ułożone pod kątem prostym względem siebie. Systematycznie koszone, nawierzchnia równa, bardzo dobrze utrzymana. Możliwość lądowania w każdym kierunku. Obok charakterystyczne dwa prostokątne stawy. Rękaw wiatrowy między stawami. WC polowe, gril, wiata, schronienie przed deszczem. Odległość do najblizszej stacji paliw 6km Wiązów, 8km Strzelin. Lądowanie po uzyskaniu zgody właściciela." Caution="" LastUpdated="20200615214358" AuthorFlags="0">
+    <Runways>
+      <Runway Length="224.00" Width="35.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="12" ThresholdPosition="N504702.10 E0170935.00" ThresholdElevation="497.00" TrueBearing="116.38" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="30" ThresholdPosition="N504658.90 E0170945.20" ThresholdElevation="497.00" TrueBearing="296.38" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+      <Runway Length="133.00" Width="40.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="03" ThresholdPosition="N504659.80 E0170940.10" ThresholdElevation="497.00" TrueBearing="32.30" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="21" ThresholdPosition="N504703.40 E0170943.70" ThresholdElevation="497.00" TrueBearing="212.30" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Zajączkowo (C)" Position="N531256.00 E0184624.00" IcaoIdentifier="" LocalIdentifier="" Elevation="290.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Krzysztof Błądek +48 696 040 963" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Jedno z trudniejszych lądowisk: na podejściu 14 wysokie zabudowania i drzewa. Bezpieczne podejście tylko na kierunku 32. Przy wietrze z kierunku NE turbulencja od drzew znajdujących się z prawej strony pasa. Możliwość hangarowania motolotni" Caution="" LastUpdated="20200615214432" AuthorFlags="0">
+    <Runways>
+      <Runway Length="270.00" Width="15.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="14" ThresholdPosition="N531259.10 E0184618.90" ThresholdElevation="290.00" TrueBearing="135.41" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="32" ThresholdPosition="N531252.90 E0184629.10" ThresholdElevation="290.00" TrueBearing="315.41" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Zbuczyn (C)" Position="N520533.30 E0222452.70" IcaoIdentifier="" LocalIdentifier="" Elevation="521.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Andrzej Roszczak +48 609 654 301" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany, obok firmy A.T.Tading sp. z o.o. Równa i gładka nawierzchnia drogi startowej. Przed progiem 18 obszerna hala. Podejście 18 znad hali, podejście 36 bez przeszkód. W planach budowa hangaru przed progiem 18" Caution="" LastUpdated="20200615214803" AuthorFlags="0">
+    <Runways>
+      <Runway Length="410.00" Width="37.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="00" ThresholdPosition="N520526.70 E0222452.10" ThresholdElevation="521.00" TrueBearing="3.20" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="18" ThresholdPosition="N520539.90 E0222453.30" ThresholdElevation="521.00" TrueBearing="183.20" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Żodyń (C)" Position="N520657.70 E0155836.90" IcaoIdentifier="" LocalIdentifier="" Elevation="181.00" TrafficType="M" UsageType="F" Circuits="" Operator="" PPRContact="Henryk +48 601 758 113" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, oznakowany (linia centralna)" Caution="" LastUpdated="20200615214823" AuthorFlags="0">
+    <Runways>
+      <Runway Length="300.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="10" ThresholdPosition="N520658.20 E0155829.10" ThresholdElevation="181.00" TrueBearing="95.89" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N520657.20 E0155844.70" ThresholdElevation="181.00" TrueBearing="275.89" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Żytniów (C)" Position="N510131.70 E0183314.30" IcaoIdentifier="" LocalIdentifier="" Elevation="693.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Łukasz Włóka +48 788 522 885, Wiesław Włóka +48 604 102 170" Availability="1" URL="https://www.facebook.com/Motolotniarstwo-383554055071356/" Email="lwloka@wp.pl" OpeningHours="" LandingFee="" Remarks="Pas trawiasty, nieoznakowany. Północna części pasa przedłużona o 150 m do calkowitej długości 570 m równego i utwardzonego pasa, ale ta część po deszczach może być podmoknięta" Caution="" LastUpdated="20200615214936" AuthorFlags="0">
+    <Runways>
+      <Runway Length="420.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="02" ThresholdPosition="N510125.20 E0183311.00" ThresholdElevation="693.00" TrueBearing="17.72" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="20" ThresholdPosition="N510138.20 E0183317.60" ThresholdElevation="693.00" TrueBearing="197.72" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Śniatowo (C)" Position="N535241.90 E0145154.60" IcaoIdentifier="" LocalIdentifier="" Elevation="30.00" TrafficType="D" UsageType="M" Circuits="" Operator="" PPRContact="" Availability="0" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Wiatraki elektrowni wiatrowych wokół pasa. Bardzo niebezpieczne podejście!" Caution="" LastUpdated="20200615212115" AuthorFlags="0">
+    <Runways>
+      <Runway Length="2290.00" Width="55.00" Active="0" Notes="" Surface="CONCRETE" Accuracy="0">
+        <BaseEnd Identifier="28" ThresholdPosition="" ThresholdElevation="30.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="10" ThresholdPosition="" ThresholdElevation="30.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Bojszowy (C)" Position="N500259.70 E0190540.00" IcaoIdentifier="" LocalIdentifier="" Elevation="" TrafficType="D" UsageType="F" Circuits="" Operator="" PPRContact="Edmund Chrobok tel. +48 730 571 612" Availability="2" URL="https://www.facebook.com/lotniskobojszowy/" Email="" OpeningHours="" LandingFee="" Remarks="Lotnisko modelarskie. Pas trawiasty oznakowany. Zalecane lądowanie na środkowych znacznikach (po płd.-wsch. stronie znaczników lekki przechył - szkody górnicze). Uwaga na modele latające (zalecany krąg, aby operatorzy modeli mogli zwolnić przestrzeń). Po płd.-wsch. stronie, równolegle do pasa, w odl. 57 m od krawędzi pasa, linia elektryczna na niskich słupach. Zaleca się start na kierunku 22 ze względu na zabudowania. Wykreślone z ewidencji w dniu 29.07.2019." Caution="" LastUpdated="20200615215142" AuthorFlags="0">
+    <Runways>
+      <Runway Length="438.00" Width="30.00" Active="0" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="22" ThresholdPosition="" ThresholdElevation="" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="04" ThresholdPosition="" ThresholdElevation="" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Iwonicz (C)" Position="N493931.30 E0214854.30" IcaoIdentifier="EPIW" LocalIdentifier="" Elevation="975.00" TrafficType="D" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="0" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Lotnisko wykreślone z AIP. Według VFR SUP 76/16 lotnisko zamknięte dla ruchu lotniczego od 26.05.2016 do 21.12.2018. Wg informacji z X.2018 lotnisko zostało wykupione przez Miasto Krosno pod cele inwestycyjne i wykreślono je z rejestru ULC." Caution="" LastUpdated="20200615215909" AuthorFlags="0">
+    <Runways>
+      <Runway Length="1380.00" Width="33.00" Active="0" Notes="" Surface="ASPHALT" Accuracy="0">
+        <BaseEnd Identifier="30" ThresholdPosition="" ThresholdElevation="975.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="12" ThresholdPosition="" ThresholdElevation="975.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Jaworze (C)" Position="N531841.70 E0154242.70" IcaoIdentifier="" LocalIdentifier="" Elevation="346.00" TrafficType="D" UsageType="M" Circuits="" Operator="" PPRContact="" Availability="0" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Nieczynne dawne lotnisko wojskowe: niekoszone, wysoka trawa - można się pokusić o lądowanie na wyjeżdżonych ścieżkach. Tylko w przypadkach awaryjnych" Caution="" LastUpdated="20200615215905" AuthorFlags="0">
+    <Runways>
+      <Runway Length="1400.00" Width="50.00" Active="0" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="25" ThresholdPosition="" ThresholdElevation="346.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="07" ThresholdPosition="" ThresholdElevation="346.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Kluczewo" Position="N531648.50 E0145802.10" IcaoIdentifier="" LocalIdentifier="" Elevation="76.00" TrafficType="D" UsageType="M" Circuits="" Operator="" PPRContact="" Availability="0" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Dawne nieistniejące lotnisko wojskowe. Zostało rozparcelowane i sprzedane inwestorom. Obecnie na samym środku pasa stoi wysoka hala. Aktualizacja z kwietnia 2019: Coraz więcej budynków. Na pozostałej części pasa opony i hałdy ziemi." Caution="" LastUpdated="20200615220052" AuthorFlags="0">
+    <Runways>
+      <Runway Length="2293.00" Width="37.00" Active="0" Notes="" Surface="CONCRETE" Accuracy="0">
+        <BaseEnd Identifier="33" ThresholdPosition="" ThresholdElevation="76.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="15" ThresholdPosition="" ThresholdElevation="76.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Pisarzowice (C)" Position="N510856.40 E0151400.70" IcaoIdentifier="" LocalIdentifier="" Elevation="885.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="Janusz Hołod +48 505 090 011" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Dwa równoległe pasy trawiaste. Pomiędzy nimi budynek hangaru około 200 m2 (możliwość hangarowania). Loty PPG, UL, wiatrakowce. Próg 19 obniżony o ok. 9 ft w stosunku do reszty terenu" Caution="" LastUpdated="20200615221002" AuthorFlags="0">
+    <Runways>
+      <Runway Length="315.00" Width="70.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01L" ThresholdPosition="N510851.60 E0151358.50" ThresholdElevation="885.00" TrueBearing="7.81" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19R" ThresholdPosition="N510901.20 E0151400.60" ThresholdElevation="885.00" TrueBearing="187.81" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+      <Runway Length="300.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="01R" ThresholdPosition="N510850.50 E0151403.90" ThresholdElevation="885.00" TrueBearing="9.20" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="19L" ThresholdPosition="N510859.80 E0151406.30" ThresholdElevation="885.00" TrueBearing="189.20" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Chojnice-Nieżywiec (C)" Position="N534145.60 E0172923.90" IcaoIdentifier="" LocalIdentifier="" Elevation="541.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Andrzej Lenc +48 607 171 198" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Liczne linie wysokiego napięcia w okolicy lądowiska." Caution="" LastUpdated="20200615221307" AuthorFlags="0">
+    <Runways>
+      <Runway Length="410.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="27" ThresholdPosition="N534145.10 E0172934.80" ThresholdElevation="541.00" TrueBearing="275.17" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="09" ThresholdPosition="N534146.30 E0172912.50" ThresholdElevation="541.00" TrueBearing="95.17" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Witków (C)" Position="N504745.90 E0160655.30" IcaoIdentifier="" LocalIdentifier="" Elevation="1644.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="PPR Stefan Dynerowicz +48 509 054 800, Borys Majewski +48 669 981 253" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Obowiązkowy kontakt z Zarządzającym w przypadku przylotów z wyprzedzeniem co najmniej 24 H. Starty i lądowania statków powietrznych mają się odbywać z jak najmniejszą uciążliwością dla środowiska oraz powinny być wykonywane z ominięciem miasta Witków. Pole wzlotów jest oznakowane białymi płachtami o wymiarach 3 na 1 metr, rozmieszczonymi co 100m po obu stronach pasa. Początek i koniec jest oznaczony białymi płachtami w kształcie litery L oraz jedną poprzeczną płachtą o wymiarach 3 na 1 metr. Chętnie pomożemy w zatankowaniu samolotu PB95 (posiadamy mobilną stację z paliwem dla własnych potrzeb). Bardzo blisko smażalnia pstrągów. Na lotnisku mamy internet, toaletę oraz zawsze kawa dla odwiedzających lotników. Możliwość zakotwiczenia lub zahangarowania. Lotnisko wyniesione bez przeszkód. Trawa zadbana i koszona regularnie. Możliwość hangarowania." Caution="" LastUpdated="20200615221947" AuthorFlags="0">
+    <Runways>
+      <Runway Length="800.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="32" ThresholdPosition="" ThresholdElevation="1644.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="14" ThresholdPosition="" ThresholdElevation="1644.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Witków Radio" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel>
+      <Fuel Type="MOGAS" Comments="" />
+    </Fuel>
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Tuszyn (C)" Position="N513530.80 E0193622.30" IcaoIdentifier="" LocalIdentifier="" Elevation="673.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Grzegorz Dudkiewicz +48 501 132 807" Availability="2" URL="" Email="dudeczek@o2.pl" OpeningHours="" LandingFee="" Remarks="Brak przeszkód na podejściu z obu stron. Przy lotnisku 200 m znajduje się wybudowana grota skalna usytuowana na źródle wody. Woda ta o ph 8,3 (alkaliczna) jest regularnie badana i nie zawiera żadnych bakterii. Sama grota jest atrakcją turystyczną a przy okazji zabierzcie baniaki na wodę do domu. Obok groty jest jeszcze 16 takich źródeł. Brak aktualnej informacji o statusie prawnym lądowiska." Caution="" LastUpdated="20200615222417" AuthorFlags="0">
+    <Runways>
+      <Runway Length="750.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="27" ThresholdPosition="" ThresholdElevation="673.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="09" ThresholdPosition="" ThresholdElevation="673.00" TrueBearing="" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Radio" Frequency="123.0" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Gostkowo (C)" Position="N530642.20 E0184050.00" IcaoIdentifier="" LocalIdentifier="" Elevation="279.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="+48 512 142 587, +48 660 073 736" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Przylatujących i odlatujących prosimy o omijanie zwartej zabudowy miejscowości Gostkowo, Folząg i Tylice.&#xD;&#xA;&#xD;&#xA;Pas 28 : 450m x29m (LDA). Rozporządzalna długość rozbiegu (TORA) 580 m. Odległość od progu pasa 28 do linii wysokiego napięcia 690 m. Największa odległość od miejsca rozpoczęcia rozbiegu do linii wysokiego napięcia 820 m. Na podejściu do pasa 28 przeszkoda - hangar 26 ft ( 8 m) AGL i wiatrowskaz.&#xD;&#xA;&#xD;&#xA;Pas 10 : 450mx29m (LDA). Długość pasa do startu i wolna przestrzeń za pasem (ASDA) 580 m. Odległość od progu pasa 10 do budynku 630 m. Na podejściu do pasa 10 przeszkoda - linia wysokiego napięcia 98 ft (30 m) AGL. Odległość linii od progu pasa 10 to 240 m. Przewody są słabo widoczne." Caution="" LastUpdated="20200615223603" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="29.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="28" ThresholdPosition="N530642.10 E0184051.10" ThresholdElevation="279.00" TrueBearing="284.43" ThresholdDisplacement="130.0" Lighting="0" />
+        <FarEnd Identifier="10" ThresholdPosition="N530645.70 E0184027.80" ThresholdElevation="279.00" TrueBearing="104.43" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Piotrków Kujawski (C)" Position="N523309.00 E0183059.55" IcaoIdentifier="" LocalIdentifier="" Elevation="336.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="Krzysztof Nowacki +48 603 881 185" Availability="2" URL="" Email="krzysiek@nowacki.pl" OpeningHours="" LandingFee="" Remarks="Uwaga! na maszty wiatraków. Kierunek lądowania na kierunku 18 pod górkę w kierunku hangaru. Start na kierunku 36 od hangaru z górki." Caution="" LastUpdated="20200615224050" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="50.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="18" ThresholdPosition="N523322.10 E0183104.60" ThresholdElevation="336.00" TrueBearing="192.99" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="36" ThresholdPosition="N523309.45 E0183059.80" ThresholdElevation="336.00" TrueBearing="12.99" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Biała Podlaska Radio" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Wilcze Laski (C)" Position="N533540.00 E0164326.60" IcaoIdentifier="" LocalIdentifier="" Elevation="525.00" TrafficType="A" UsageType="C" Circuits="" Operator="" PPRContact="Jerzy Tomczak +48 502 364 042" Availability="2" URL="http://gminaszczecinek.pl/asp/pl_start.asp?typ=14&amp;sub=26&amp;menu=144&amp;strona=1" Email="zsl.fly@o2.pl" OpeningHours="" LandingFee="" Remarks="Byłe radzieckie lotnisko wojskowe. Obecna, oznakowana droga startowa wyznaczona jest we wschodniej części dawnego pasa startowego. Wskaźnik wiatru po południowej stronie pasa startowego w odległości 60 m od środka pasa. Uwaga: 15 m przed progiem pasa 10 ustawiona została w poprzek pasa startowego barierka odgraniczająca ruch pojazdów od drogi publicznej o wysokości 0,7 metra. Nr ewid.ULC 349" Caution="" LastUpdated="20200615224526" AuthorFlags="0">
+    <Runways>
+      <Runway Length="1270.00" Width="30.00" Active="1" Notes="" Surface="ASPHALT" Accuracy="2">
+        <BaseEnd Identifier="28" ThresholdPosition="N533536.40 E0164400.45" ThresholdElevation="525.00" TrueBearing="281.05" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="10" ThresholdPosition="N533544.20 E0164253.10" ThresholdElevation="525.00" TrueBearing="101.04" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies>
+      <Frequency Designation="AFIS" Callsign="Wilcze Laski Radio" Frequency="123.45" Radius="" Qualifier="" />
+    </Frequencies>
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+</AirfieldsList>

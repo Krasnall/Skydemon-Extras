@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AirfieldsList>
+  <Airfield UniqueIdentifier="" Name="Klčov (C)" Position="N485939.60 E0203953.50" IcaoIdentifier="" LocalIdentifier="" Elevation="1587.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="Airfield name(s): Klčov&#xA;Main runway: 002/182, 450 x 10 m asfalt, 1587 ft, N48°59'39.6” E20°39'53.5”&#xA;Status: Lądowisko" Caution="" LastUpdated="20200616104818" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="10.00" Active="1" Notes="" Surface="ASPHALT" Accuracy="2">
+        <BaseEnd Identifier="00" ThresholdPosition="N485932.30 E0203953.10" ThresholdElevation="1587.00" TrueBearing="2.07" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="18" ThresholdPosition="N485946.90 E0203953.90" ThresholdElevation="1587.00" TrueBearing="182.07" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Liptovský Ondrej (C)" Position="N490545.70 E0194404.20" IcaoIdentifier="" LocalIdentifier="" Elevation="2581.00" TrafficType="A" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="1" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20200616104823" AuthorFlags="0">
+    <Runways>
+      <Runway Length="480.00" Width="20.00" Active="1" Notes="" Surface="GRASS" Accuracy="2">
+        <BaseEnd Identifier="13" ThresholdPosition="N490550.10 E0194354.50" ThresholdElevation="2581.00" TrueBearing="124.72" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="31" ThresholdPosition="N490541.30 E0194413.90" ThresholdElevation="2581.00" TrueBearing="304.73" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+</AirfieldsList>
